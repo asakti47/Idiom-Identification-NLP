@@ -1,0 +1,572 @@
+a
+aboard
+about
+abt
+above
+abreast
+absent
+across
+after
+against
+along
+aloft
+alongside
+amid
+amidst
+mid
+midst
+among
+amongst
+anti
+apropos
+around
+round
+as
+aslant
+astride
+at
+@
+atop
+ontop
+bar
+barring
+before
+B
+behind
+below
+beneath
+neath
+beside
+besides
+between
+tween
+beyond
+but
+by
+chez
+circa
+c
+ca
+come
+concerning
+contra
+counting
+cum
+despite
+spite
+down
+during
+effective
+ere
+except
+excepting
+excluding
+failing
+following
+for
+from
+in
+including
+inside
+into
+less
+like
+minus
+modulo
+mod
+near
+nearer
+nearest
+next
+notwithstanding
+of
+o
+off
+offshore
+on
+onto
+opposite
+out
+outside
+over
+oer
+pace
+past
+pending
+per
+plus
+post
+pre
+pro
+qua
+re
+regarding
+respecting
+sans
+save
+saving
+short
+since
+sub
+than
+through
+thru
+throughout
+thruout
+till
+times
+to
+t
+touching
+toward
+towards
+under
+underneath
+unlike
+until
+unto
+up
+upon
+versus
+vs
+v
+via
+vice
+visàvis
+wanting
+with
+w/
+w
+c̄
+within
+w/i
+without
+thout
+w/o
+after
+although
+as
+at
+because
+before
+beside
+besides
+between
+by
+considering
+despite
+except
+for
+fromh
+given
+granted
+if
+into
+lest
+like
+notwithstanding
+now
+of
+on
+once
+provided
+providing
+save
+seeing
+since
+so
+supposing
+than
+though
+till
+to
+unless
+until
+upon
+when
+whenever
+where
+whereas
+wherever
+while
+whilst
+with
+withouti
+abroada
+adrift
+aft
+afterward
+afterwards
+aheadb
+apart
+ashore
+asidec
+away
+back
+backward
+backwards
+beforehand
+downhill
+downstage
+downstairs
+downstream
+downward
+downwards
+downwind
+east
+eastward
+eastwards
+forthd
+forward
+forwards
+heavenward
+heavenwards
+hence
+henceforth
+here
+hereby
+herein
+hereof
+hereto
+herewith
+home
+homeward
+homewards
+indoors
+inward
+inwards
+leftward
+leftwards
+north
+northeast
+northward
+northwards
+northwest
+now
+onward
+onwards
+outdoors
+outward
+outwards
+overboard
+overhead
+overland
+overseas
+rightward
+rightwards
+seaward
+seawards
+skyward
+skywards
+south
+southeast
+southward
+southwards
+southwest
+then
+thence
+thenceforth
+there
+thereby
+therein
+thereof
+thereto
+therewith
+togetherf
+underfoot
+underground
+uphill
+upstage
+upstairs
+upstream
+upward
+upwards
+upwind
+west
+westward
+westwards
+when
+whence
+where
+whereby
+wherein
+whereto
+wherewith
+a
+a few
+a little
+all
+an
+another
+any
+anybody
+anyone
+anything
+anywhere
+both
+certain
+each
+either
+enough
+every
+everybody
+everyone
+everything
+everywhere
+few
+fewer
+fewest
+last
+least
+less
+little
+many a
+more
+most
+neither
+next
+no
+no one
+nobody
+none
+nothing
+nowhere
+once
+one
+said
+several
+some
+somebody
+something
+somewhere
+sufficient
+that
+the
+these
+this
+those
+three
+thrice
+twice
+two
+various
+we
+what
+whatever
+which
+you
+zero
+a
+abbur
+afore
+after
+against
+albe
+albeit
+albethey
+all
+allthough
+altho
+altho
+although
+an
+an if
+and
+and if
+and/or
+andt
+as
+as a result
+as and when
+as far as
+as if
+as long as
+as much as
+as soon as
+as though
+as well as
+B
+b/c
+bc
+bcause
+bcos
+bcoz
+be4
+because
+becos
+becoz
+before
+being
+being as
+being that
+bekase
+beway
+beways
+bicause
+both
+both … and
+bothe
+bt
+but
+but if
+but then
+buuut
+by the time
+bycause
+C
+cause
+cause
+caze
+cept
+choose
+cos
+cos
+coz
+coz
+cum
+cus
+cuz
+cuz
+D
+dat
+despite that
+directly
+E
+eef
+ef
+either
+either … or
+else
+elseif
+enaunter
+ere
+ergo
+even as
+even if
+even though
+ever since
+except
+F
+followed by
+for
+for because
+for that
+for thy
+for to
+forthan
+forasmuch as
+forcause
+forthan
+forthy
+forwhy
+fur
+G
+gin
+given that
+H
+having said that
+how
+howbeit
+however
+howsomever
+hyphen
+I
+if
+if and only if
+if and when
+if only
+if so be
+ifen
+iff
+iffen
+ifn
+immediately
+in as much as
+in case
+in order that
+in regard
+in so far as
+in that
+in the event
+in the event that
+inasfar as
+inasmuch as
+insofar as
+instantly
+J
+just as soon as
+just in case
+L
+lak
+less
+less
+lessen
+lessn
+lest
+let alone
+like
+like as
+like as and
+like as if
+M
+more to the point
+much as
+much less
+N
+n
+n
+n
+nather
+nd
+ne
+neither … nor
+neverthelesse
+no matter that
+nor
+not
+not but
+not forgetting
+not only … but also
+not that
+not to mention
+not to say
+notwithstanding
+nought withstanding
+noughtwithstanding
+noughtwithstanding
+now
+now that
+O
+on account
+on account of
+once
+only
+only if
+or
+OR
+outcept
+outstep
+P
+plus
+precisely unless
+provided
+Q
+quhair
+quhar
+quher
+quus
+R
+rather than
+S
+s
+st
+save
+seeing
+seeing as
+seeing that
+sence
+since
+sith
+sithe
+sithen
+sithence
